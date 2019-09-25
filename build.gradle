@@ -40,9 +40,5 @@ dependencies {
     compile("io.springfox:springfox-swagger2:2.9.2")
     compile("io.springfox:springfox-swagger-ui:2.9.2")
     compile("com.google.code.gson:gson:2.8.5")
-<<<<<<< HEAD
     compile("org.springframework.boot:spring-boot-devtools")
-=======
-    compile("org.webjars:bootstrap:4.3.1")
->>>>>>> branch 'master' of https://github.com/dgshinitm/sb-rest-service.git
 }
