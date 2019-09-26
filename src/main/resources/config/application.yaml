@@ -4,6 +4,8 @@ spring:
       enabled: true
     restart:
       enabled: true
+    reload:
+      enabled: true
   thymeleaf:
     cache: false
 
